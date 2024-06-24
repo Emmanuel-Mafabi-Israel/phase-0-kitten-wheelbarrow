@@ -1,0 +1,62 @@
+/*
+    GLORY BE TO GOD,
+    Kitten Wheelbarrow,
+    By Israel Mafabi Emmanuel
+*/
+
+* {
+    user-select: none;
+}
+
+html {
+    background: url(../images/beautiful-day.jpg) no-repeat top center;
+}
+
+img {
+    pointer-events: none;
+
+    position: relative;
+    z-index: 11;
+
+    cursor: pointer;
+}
+
+.wrapper {
+    position: relative;
+
+    margin: 0 auto;
+
+    width: 960px;
+    height: 100vh;
+}
+
+#wheelbarrow, #wheelbarrow-foreground {
+    margin-left: 80px;
+
+    width: 688px;
+    height: 514px;
+}
+
+#wheelbarrow {
+    background: url(../images/wheelbarrow.png) no repeat;
+
+    position: relative;
+    z-index: 0;
+
+    top: 220px;
+}
+
+#wheelbarrow-foreground {
+    background: url(../images/wheelbarrow-foreground.png);
+
+    pointer-events: none;
+
+    position: absolute;
+    z-index: 10;
+
+    top: 220px;
+}
+
+#basket, #ball {
+    display: inline;
+}

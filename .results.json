@@ -1,0 +1,108 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 5,
+    "passes": 5,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-06-24T17:08:51.499Z",
+    "end": "2024-06-24T17:08:51.509Z",
+    "duration": 10
+  },
+  "tests": [
+    {
+      "title": "selects the image with a class of kitty-1",
+      "fullTitle": "place-kitty.css selects the image with a class of kitty-1",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-kitten-wheelbarrow\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "selects the image with an id of kitty-2",
+      "fullTitle": "place-kitty.css selects the image with an id of kitty-2",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-kitten-wheelbarrow\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "selects the image inside the element with an id of basket (via descendent relationship)",
+      "fullTitle": "place-kitty.css selects the image inside the element with an id of basket (via descendent relationship)",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-kitten-wheelbarrow\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "selects the image based on the respective sibling element",
+      "fullTitle": "place-kitty.css selects the image based on the respective sibling element",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-kitten-wheelbarrow\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Selects the image that has an alt attribute value matching \"Kitty 5\", via the attribute selector",
+      "fullTitle": "place-kitty.css Selects the image that has an alt attribute value matching \"Kitty 5\", via the attribute selector",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-kitten-wheelbarrow\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "selects the image with a class of kitty-1",
+      "fullTitle": "place-kitty.css selects the image with a class of kitty-1",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-kitten-wheelbarrow\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "selects the image with an id of kitty-2",
+      "fullTitle": "place-kitty.css selects the image with an id of kitty-2",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-kitten-wheelbarrow\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "selects the image inside the element with an id of basket (via descendent relationship)",
+      "fullTitle": "place-kitty.css selects the image inside the element with an id of basket (via descendent relationship)",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-kitten-wheelbarrow\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "selects the image based on the respective sibling element",
+      "fullTitle": "place-kitty.css selects the image based on the respective sibling element",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-kitten-wheelbarrow\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Selects the image that has an alt attribute value matching \"Kitty 5\", via the attribute selector",
+      "fullTitle": "place-kitty.css Selects the image that has an alt attribute value matching \"Kitty 5\", via the attribute selector",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-kitten-wheelbarrow\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
