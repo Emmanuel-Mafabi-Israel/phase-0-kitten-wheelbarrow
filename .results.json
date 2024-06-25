@@ -5,16 +5,16 @@
     "passes": 5,
     "pending": 0,
     "failures": 0,
-    "start": "2024-06-24T17:08:51.499Z",
-    "end": "2024-06-24T17:08:51.509Z",
-    "duration": 10
+    "start": "2024-06-25T15:12:23.383Z",
+    "end": "2024-06-25T15:12:23.398Z",
+    "duration": 15
   },
   "tests": [
     {
       "title": "selects the image with a class of kitty-1",
       "fullTitle": "place-kitty.css selects the image with a class of kitty-1",
       "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-kitten-wheelbarrow\\test\\indexTest.js",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -50,7 +50,7 @@
       "title": "Selects the image that has an alt attribute value matching \"Kitty 5\", via the attribute selector",
       "fullTitle": "place-kitty.css Selects the image that has an alt attribute value matching \"Kitty 5\", via the attribute selector",
       "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-kitten-wheelbarrow\\test\\indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -63,7 +63,7 @@
       "title": "selects the image with a class of kitty-1",
       "fullTitle": "place-kitty.css selects the image with a class of kitty-1",
       "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-kitten-wheelbarrow\\test\\indexTest.js",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -99,7 +99,7 @@
       "title": "Selects the image that has an alt attribute value matching \"Kitty 5\", via the attribute selector",
       "fullTitle": "place-kitty.css Selects the image that has an alt attribute value matching \"Kitty 5\", via the attribute selector",
       "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-kitten-wheelbarrow\\test\\indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
